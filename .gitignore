@@ -1,0 +1,55 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ----------------------------
+# Dataset (ignore actual data)
+# ----------------------------
+dataset/Training/
+dataset/Testing/
+
+Preprocessed/
+
+# ----------------------------
+# Trained Models
+# ----------------------------
+saved_models/*.pkl
+
+# ----------------------------
+# Generated Outputs
+# ----------------------------
+outputs/
+
+# ----------------------------
+# Database
+# ----------------------------
+*.db
+
+# ----------------------------
+# React
+# ----------------------------
+node_modules/
+build/
+
+# ----------------------------
+# IDE
+# ----------------------------
+.vscode/
+.idea/
+
+# ----------------------------
+# Operating System
+# ----------------------------
+Thumbs.db
+.DS_Store
