@@ -812,45 +812,48 @@ Frontend --> User
 
 # 11. Images & Output Screenshots
 
-> Replace the placeholder paths below with your actual screenshots after adding them to the repository.
-
-## Home Page
-
-```md
-![Home Page](images/home1.png)
-![Home Page](images/home2.png)
-```
+Below are screenshots showcasing the major components and functionalities of **BrainInsight AI**.
 
 ---
 
-## Prediction Output
+## 🏠 Home Page
 
-```md
-![Prediction Output](images/predict1.png)
-![Prediction Output](images/predict2.png)
-![Prediction Output](images/predict3.png)
-```
+### Home Screen 1
 
----
+![Home Page 1](images/home1.png)
 
-## PDF Report
-
-```md
-![PDF Report](images/report.png)
-```
+![Home Page 2](images/home2.png)
 
 ---
 
-## Prediction History
+## 🧠 Prediction Output
 
-```md
-![Prediction History](images/history.png)
-```
+![Prediction 1](images/predict1.png)
+
+![Prediction 2](images/predict2.png)
+
+![Prediction 3](images/predict3.png)
 
 ---
 
-## About Page 
+## 📄 Generated PDF Report
 
-```md
-![Architecture Diagram](images/about.png)
-```
+<p align="center">
+  <img src="images/report.png" width="75%" alt="Generated PDF Report"/>
+</p>
+
+---
+
+## 📜 Prediction History
+
+<p align="center">
+  <img src="images/history.png" width="85%" alt="Prediction History"/>
+</p>
+
+---
+
+## ℹ️ About Page
+
+<p align="center">
+  <img src="images/about.png" width="85%" alt="About Page"/>
+</p>
