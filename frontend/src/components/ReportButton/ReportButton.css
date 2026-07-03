@@ -1,0 +1,31 @@
+.report-btn{
+
+    display:block;
+
+    width:220px;
+
+    margin:20px auto;
+
+    padding:12px;
+
+    background:#2563eb;
+
+    color:white;
+
+    border:none;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    font-size:16px;
+
+    font-weight:600;
+
+}
+
+.report-btn:hover{
+
+    background:#1d4ed8;
+
+}

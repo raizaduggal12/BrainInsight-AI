@@ -1,0 +1,16 @@
+.prediction-card{
+
+    width:60%;
+
+    margin:30px auto;
+
+    padding:20px;
+
+    border-radius:10px;
+
+    box-shadow:0px 0px 8px lightgray;
+
+    background:white;
+
+}
+
