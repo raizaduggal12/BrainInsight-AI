@@ -817,15 +817,8 @@ Frontend --> User
 ## Home Page
 
 ```md
-![Home Page](images/home.png)
-```
-
----
-
-## Upload Screen
-
-```md
-![Upload Screen](images/upload.png)
+![Home Page](images/home1.png)
+![Home Page](images/home2.png)
 ```
 
 ---
@@ -833,39 +826,9 @@ Frontend --> User
 ## Prediction Output
 
 ```md
-![Prediction Output](images/prediction.png)
-```
-
----
-
-## Result Screen
-
-```md
-![Result Screen](images/result.png)
-```
-
----
-
-## Tumor Segmentation
-
-```md
-![Tumor Segmentation](images/segmentation.png)
-```
-
----
-
-## SHAP Explanation
-
-```md
-![SHAP Explanation](images/shap.png)
-```
-
----
-
-## LIME Explanation
-
-```md
-![LIME Explanation](images/lime.png)
+![Prediction Output](images/predict1.png)
+![Prediction Output](images/predict2.png)
+![Prediction Output](images/predict3.png)
 ```
 
 ---
@@ -886,24 +849,8 @@ Frontend --> User
 
 ---
 
-## System Architecture Diagram
+## About Page 
 
 ```md
-![Architecture Diagram](images/architecture.png)
-```
-
----
-
-## Complete Workflow Diagram
-
-```md
-![Workflow Diagram](images/workflow.png)
-```
-
----
-
-## Application Overview
-
-```md
-![Application Overview](images/application.png)
+![Architecture Diagram](images/about.png)
 ```
