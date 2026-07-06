@@ -40,11 +40,6 @@ BrainInsight AI assists by:
 
 ---
 
-## ⚙️ Backend (REST API)
-
-> **Backend API:**  
-https://your-backend-url.onrender.com
-
 # How to Use
 
 1. Open the **Frontend** application.
