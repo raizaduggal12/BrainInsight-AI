@@ -36,7 +36,7 @@ BrainInsight AI assists by:
 ## 🌐 Frontend (User Interface)
 
 > **Live Application:**  
-[https://your-frontend-url.onrender.com](https://brain-insight-9zqzzd8aa-raiza-duggals-projects.vercel.app/)
+[LINK](https://brain-insight-9zqzzd8aa-raiza-duggals-projects.vercel.app/)
 
 ---
 
