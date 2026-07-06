@@ -33,32 +33,34 @@ BrainInsight AI assists by:
 
 # 2. Live Demo
 
-## Deployment
+## 🌐 Frontend (User Interface)
 
-> **Live Demo:** *Add your deployed application link here*
-
-Example:
-
-```text
-https://your-project-url.com
-```
-
-## How to Use
-
-1. Open the deployed application.
-2. Upload a Brain MRI image.
-3. Click the **Predict** button.
-4. Wait for the model to process the image.
-5. View:
-   - Predicted tumor class
-   - Confidence score
-   - Tumor segmentation
-   - Severity analysis
-   - SHAP & LIME explanations
-6. Download the generated PDF report (if available).
-7. View previous predictions from the History page.
+> **Live Application:**  
+[https://your-frontend-url.onrender.com](https://brain-insight-9zqzzd8aa-raiza-duggals-projects.vercel.app/)
 
 ---
+
+## ⚙️ Backend (REST API)
+
+> **Backend API:**  
+https://your-backend-url.onrender.com
+
+# How to Use
+
+1. Open the **Frontend** application.
+2. Enter a **Patient ID**.
+3. Upload a Brain MRI image (.jpg, .jpeg, or .png).
+4. Click the **Predict** button.
+5. Wait a few seconds while the backend processes the MRI image.
+6. View the generated results, including:
+   - Predicted Tumor Class
+   - Confidence Score
+   - Tumor Segmentation Measurements
+   - Severity Analysis
+   - SHAP Explanation
+   - LIME Explanation
+7. Click **Download Report** to generate and download the BrainInsight AI PDF Report.
+8. Visit the **History** page to view all previous predictions stored in the database.
 
 # 3. Unique Selling Points (USP)
 
